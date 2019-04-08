@@ -3,5 +3,5 @@ margin:auto;}
 .img-der{float:right;}
 .img-izq{float:left;}
 
-.mosaico-colaboradores img{max-width:30%;}
-
+.mosaico-colaboradores img{max-width:30%;
+margin-right:2.5%;}
