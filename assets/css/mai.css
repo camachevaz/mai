@@ -3,5 +3,8 @@ margin:auto;}
 .img-der{float:right;}
 .img-izq{float:left;}
 
-.mosaico-colaboradores img{max-width:30%;
+.agradecimientos h1{margin-bottom:.25rem;
+border-top:solid 1px #ccc;
+margin-top:2.5rem;}
+.agradecimientos img{max-width:30%;
 margin-right:2.5%;}
