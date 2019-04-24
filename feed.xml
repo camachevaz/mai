@@ -5,12 +5,29 @@
     <description>El Museo de Arte Infantil es un proyecto en desarrollo que creará un espacio dedicado a la difusión, exhibición formación en las áreas artísticas de la infancia.</description>
     <link>https://mai.mx//</link>
     <atom:link href="https://mai.mx//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 17 Apr 2019 15:45:04 -0700</pubDate>
-    <lastBuildDate>Wed, 17 Apr 2019 15:45:04 -0700</lastBuildDate>
+    <pubDate>Wed, 24 Apr 2019 14:04:36 -0700</pubDate>
+    <lastBuildDate>Wed, 24 Apr 2019 14:04:36 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Proyecto: ¿Cómo llegar al Museo de arte infantil? </title>
+        <title>: Pintando y dibujando en la Biblioteca</title>
+        <description>&lt;p&gt;Durante esta última semana de vacaciones de Semana Santa (vacaciones para los chiquitines), estaremos en la &lt;strong&gt;Sala infantil y juvenil&lt;/strong&gt; de la Biblioteca Pública Central Estatal (Av. Álvaro Obregón 1300 Colonia Nueva, Mexicali Baja California), donde podrán traer a su pequeños de entre 4 y 13 años para que con materiales proporcionados por nosotros realicen una pieza para que participe en la convocatoria de la &lt;strong&gt;Galería itinerante de arte infantil&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Pueden venir entre las 10am y las 2:30pm acompañados de un adulto, aquí dispondrán del material necesario, guías y resolveremos cualquier duda que tengan.&lt;/p&gt;
+
+&lt;p&gt;¡Aprovechen los últimos días de vacaciones y si no la conocen aún, dénse una vuelta para que vean todos los servicios que ofrece la Biblioteca!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/blog/post01-01.jpg&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 24 Apr 2019 03:34:15 -0700</pubDate>
+        <link>https://mai.mx//pintando-dibujando-biblioteca/</link>
+        <guid isPermaLink="true">https://mai.mx//pintando-dibujando-biblioteca/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>: ¿Cómo llegar al Museo de arte infantil? </title>
         <description>&lt;p&gt;La pregunta no es en el sentido geográfico, sino en el sentido logístico desde empezar de cero hasta lograr el espacio físico que representa el Museo con sus colecciones y actividades.&lt;/p&gt;
 
 &lt;p&gt;El establecimiento del espacio propio para el MAI MXL es la etapa que culmina el proyecto, previo a esto, es necesario realizar actividades previas y paralelas, las cuales son:&lt;/p&gt;
@@ -38,18 +55,14 @@
 &lt;p&gt;También permitirá la oferta permanente de talleres y actividades diarias a la población en general, la realización de actividades relacionadas dentro de las mismas instalaciones y el desarrollo de proyectos que permitan impulsar el talento de jóvenes creadores.&lt;/p&gt;
 </description>
         <pubDate>Wed, 17 Apr 2019 08:20:27 -0700</pubDate>
-        <link>https://mai.mx//proyecto/mai/como-llegar-al-museo/</link>
-        <guid isPermaLink="true">https://mai.mx//proyecto/mai/como-llegar-al-museo/</guid>
+        <link>https://mai.mx//como-llegar-al-museo/</link>
+        <guid isPermaLink="true">https://mai.mx//como-llegar-al-museo/</guid>
         
-        
-        <category>Proyecto</category>
-        
-        <category>MAI</category>
         
       </item>
     
       <item>
-        <title>Convocatoria: Convocatoria Galería itinerante de arte infantil MAI MXL</title>
+        <title>: Convocatoria Galería itinerante de arte infantil MAI MXL</title>
         <description>&lt;h3 id=&quot;comenzamos&quot;&gt;¡Comenzamos!&lt;/h3&gt;
 
 &lt;p&gt;Me es muy grato poder presentar oficialmente la convocatoria para la &lt;strong&gt;Galería itinerante de arte infantil&lt;/strong&gt;. Ya nos hemos acercado a varias instituciones, organizaciones no gubernamentales y empresas y su respuesta es motivo para seguir con entusiasmo este sueño. Si conoces a alguien entre 04 y 13 años invítalo a que participe. Si sabes de alguien que quiere participar pero no tiene los medios para realizar la obra que imagina, no dudes en contactarnos, estamos seguros que de alguna forma podemos ayudar.&lt;/p&gt;
@@ -71,18 +84,14 @@
 &lt;p&gt;&lt;img src=&quot;/assets/img/convocatoria.jpg&quot; class=&quot;img-centro&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 03 Apr 2019 04:50:46 -0700</pubDate>
-        <link>https://mai.mx//convocatoria/galeria%20itinerante/convocatoria-galeria-itinerante/</link>
-        <guid isPermaLink="true">https://mai.mx//convocatoria/galeria%20itinerante/convocatoria-galeria-itinerante/</guid>
+        <link>https://mai.mx//convocatoria-galeria-itinerante/</link>
+        <guid isPermaLink="true">https://mai.mx//convocatoria-galeria-itinerante/</guid>
         
-        
-        <category>Convocatoria</category>
-        
-        <category>Galeria itinerante</category>
         
       </item>
     
       <item>
-        <title>Presentacion: ¡Hola mundo!</title>
+        <title>: ¡Hola mundo!</title>
         <description>&lt;h4 id=&quot;vamos-presentándonos&quot;&gt;Vamos presentándonos.&lt;/h4&gt;
 
 &lt;p&gt;Mi nombre es Carlos Chee, soy el autor de este sitio y de la iniciativa que es el MAI (Museo de Arte Infantil). Con este proyecto busco establecer un espacio con el fin de difundir, exhibir y formar en las áreas artísticas a los niños de entre 04 y 13 años.&lt;/p&gt;
@@ -94,13 +103,9 @@
 &lt;p&gt;En este momento es un esfuerzo solitario y particular, tengo algunos colaboradores clave que están comprometidos con una causa como la que planteo. Eventualmente daré el paso de la formación de una Asociación Civil para poder darle formalidad al proyecto, a la cual espero se sumen socios clave que me ayuden a mantener vigente el proyecto.&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Apr 2019 09:54:46 -0700</pubDate>
-        <link>https://mai.mx//presentacion/mai/hola-mundo/</link>
-        <guid isPermaLink="true">https://mai.mx//presentacion/mai/hola-mundo/</guid>
+        <link>https://mai.mx//hola-mundo/</link>
+        <guid isPermaLink="true">https://mai.mx//hola-mundo/</guid>
         
-        
-        <category>presentacion</category>
-        
-        <category>mai</category>
         
       </item>
     
