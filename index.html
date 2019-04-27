@@ -30,6 +30,19 @@
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+    <script type="text/javascript">
+        window.addEventListener('load',
+            function(){
+                var topics = [' dibujar', ' bailar', ' cantar', ' actuar', ' imaginar', ' crear', ' soñar', ' inventar', ' pintar', ' esculpir'];
+
+                for (var i = 0; i < 10; i++) {
+                    setTimeout(function(){
+                        var numAleatorio = (Math.round((Math.random()*8)+1))
+                        document.getElementById("txt-aleatorio").innerHTML = topics[numAleatorio]
+                    },100*i);
+                }
+            },false);
+        </script>
 </head>
 
 
@@ -61,7 +74,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
-                <h1 style="color:#7C69FF">¿Por qué dejaste de dibujar, cantar, bailar...?</h1>
+                <h1 style="color:#7C69FF">¿Por qué dejaste de <span id="txt-aleatorio"></span>?</h1>
             </div>
             <div class="col-lg-8 col-lg-offset-2 himg">
                 <img src="/assets/img/logo-heroe.jpg" class="img-responsive">
@@ -73,24 +86,6 @@
   <div id="service">
     <div class="container">
         <div class="row left">
-            <!--<div class="col-md-4">
-                <i class="fa fa-heart-o" aria-hidden="true"></i>
-                <span class="sr-only">Imagen de un corazón</span>
-                <h4>Amor por las artes</h4>
-                <p>Fomentar la práctica de una disciplina artística es una parte funadmental par el desarrollo humano integral, permitiendo afinar sensibilidades que de otra forma difícilmente puede darse.</p>
-            </div>
-            <div class="col-md-4">
-                <i class="fa fa-flask" aria-hidden="true"></i>
-                <span class="sr-only">Imagen de un matraz</span>
-                <h4>Experimentar con diferentes técnicas</h4>
-                <p>Ensuciarse, mezclar, equivocarse, experimentar y aprender. La práctica interdisciplnaria nos permite justamente eso, el cual es otro beneficio de practicar una disciplina artística: el gusto por descubrir y nunca dejar de imaginar.</p>
-            </div>
-            <div class="col-md-4">
-                <i class="fa fa-trophy" aria-hidden="true"></i>
-                <span class="sr-only">Imagen de un trofeo</span>
-                <h4>Desarrollar y reconocer el talento</h4>
-                <p>Vincular a la infancia interesada por el quehacer artístico con profesionales del área, demostrándoles que pueden seguir su pasión, o con profesionistas de otras disiciplinas que practican algún arte para que conozcan cómo esto les ha ayudado en sus vidas.  </p>
-            </div>-->
 
             <div class="col-md-5 col-lg-offset-1">
                 <p>En marzo de 2018 tuve la oportunidad de ver la publicidad de un museo de arte infantil en Oslo, Noruega. Desde entonces, esa idea quedó sembrada en mi curiosidad y se conviritió en un propósito.</p>

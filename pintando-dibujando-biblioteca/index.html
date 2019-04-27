@@ -30,6 +30,19 @@
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+    <script type="text/javascript">
+        window.addEventListener('load',
+            function(){
+                var topics = [' dibujar', ' bailar', ' cantar', ' actuar', ' imaginar', ' crear', ' soñar', ' inventar', ' pintar', ' esculpir'];
+
+                for (var i = 0; i < 10; i++) {
+                    setTimeout(function(){
+                        var numAleatorio = (Math.round((Math.random()*8)+1))
+                        document.getElementById("txt-aleatorio").innerHTML = topics[numAleatorio]
+                    },100*i);
+                }
+            },false);
+        </script>
 </head>
 
 
